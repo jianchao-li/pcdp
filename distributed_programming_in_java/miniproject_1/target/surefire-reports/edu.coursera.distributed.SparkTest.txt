@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: edu.coursera.distributed.SparkTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 280.009 sec - in edu.coursera.distributed.SparkTest

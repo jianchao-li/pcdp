@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: edu.coursera.parallel.StudentAnalyticsTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 4.527 sec <<< FAILURE! - in edu.coursera.parallel.StudentAnalyticsTest
+testCountNumberOfFailedStudentsOlderThan20Perf(edu.coursera.parallel.StudentAnalyticsTest)  Time elapsed: 0.409 sec  <<< FAILURE!
+junit.framework.AssertionFailedError: Expected parallel version to run at least 1.2x faster but speedup was 1.05
+	at junit.framework.Assert.fail(Assert.java:47)
+	at junit.framework.Assert.assertTrue(Assert.java:20)
+	at edu.coursera.parallel.StudentAnalyticsTest.testCountNumberOfFailedStudentsOlderThan20Perf(StudentAnalyticsTest.java:165)
+
